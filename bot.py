@@ -7,7 +7,7 @@ import json
 import re
 
 # Configuration
-OLLAMA_URL = "http://localhost:11434"
+OLLAMA_URL = "http://ollama:11434"
 OLLAMA_MODEL = "llama3.2"  # Change to your preferred model: mistral, gemma, etc.
 
 
